@@ -1,0 +1,8 @@
+La relación entre estos elementos es fundamental para el ejercicio de una ciudadanía
+digital consciente. El uso responsable de la información actúa como el filtro ético 
+que permite una participación ciudadana constructiva y basada en la verdad. Por su 
+parte, el pensamiento algorítmico nos dota de la lógica necesaria para estructurar
+procesos y resolver problemas de forma eficiente. Al integrar herramientas técnicas 
+como Git, transformamos esa lógica en un trabajo ordenado, trazable y colaborativo. 
+En conclusión, la tecnología no es solo una herramienta, sino un medio que requiere 
+de nuestra disciplina, ética y organización para impactar positivamente en la sociedad.
