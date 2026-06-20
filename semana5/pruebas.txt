@@ -1,0 +1,8 @@
+Ruta /:
+Se muestra el mensaje "Servidor activo" en el navegador al acceder a http://localhost:3000.
+
+Ruta /saludo:
+Se muestra el mensaje "Hola comunidad" en el navegador al acceder a http://localhost:3000/saludo.
+
+Ruta /mensaje/juan:
+Se muestra el mensaje "Hola juan" porque el servidor usa el valor del parámetro de la ruta.

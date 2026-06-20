@@ -1,0 +1,8 @@
+Las APIs permiten que las comunidades compartan información de forma organizada y estructurada.
+Con rutas y endpoints se puede recibir reportes, alertas o datos de diferentes usuarios sin confusión.
+Una API hace posible que los datos lleguen a un servidor con reglas claras y se procesen correctamente.
+Esto es importante para coordinar acciones entre vecinos, autoridades y organizaciones comunitarias.
+Además, usar APIs facilita conectar aplicaciones móviles, sitios web y sistemas de gestión en un mismo proyecto.
+De esta forma, las alertas comunitarias se pueden registrar, clasificar y responder más rápido.
+Las APIs también ayudan a mantener un historial de reportes y a tomar decisiones basadas en información real.
+Por eso, construir servicios web con Node.js y Express es útil para fortalecer la comunicación comunitaria.
