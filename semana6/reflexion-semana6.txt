@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada porque facilita el procesamiento automático y la organización de los datos.
+Cuando los reportes llegan en formato JSON, los sistemas pueden leerlos fácilmente y extraer información clave como el tipo de incidencia, la ubicación y la descripción.
+Esto ayuda a que las autoridades respondan más rápido y asignen recursos de manera más eficiente.
+También reduce errores de interpretación y evita que la información se pierda o se malinterprete.
+La estructura permite filtrar y agrupar reportes similares, lo que es útil para detectar patrones y priorizar problemas.
+Además, un formato estándar mejora la interoperabilidad entre diferentes sistemas y aplicaciones.
+Los ciudadanos se benefician porque sus reportes son más claros y es más probable que se atiendan.
+Esto hace que la comunicación entre la comunidad y la plataforma sea más confiable y transparente.
