@@ -1,0 +1,1 @@
+Al consultar GET /reportes el servidor devuelve un arreglo JSON con todos los reportes registrados en memoria. Si ya se envió un reporte con POST, la respuesta incluye ese reporte con id, tipo y descripción. Si el servidor se reinicia, el arreglo se vacía porque los datos solo se guardan en memoria mientras el servidor está encendido.
