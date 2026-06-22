@@ -1,0 +1,5 @@
+Sistema operativo: Gestiona los recursos del hardware y permite que el servidor ejecute programas y responda solicitudes.
+Node.js: Es el entorno de ejecución de JavaScript que corre la aplicación del servidor fuera del navegador.
+Aplicación server.js: Contiene las rutas y la lógica para recibir peticiones y enviar respuestas al cliente.
+Puerto: Es el canal de red por donde el servidor escucha las solicitudes entrantes, en este caso el 3000.
+Logs: Son los registros que guardan eventos, errores y actividad del servidor para monitorear su estabilidad.
