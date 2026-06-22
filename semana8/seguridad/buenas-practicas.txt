@@ -1,0 +1,19 @@
+BUENAS PRÁCTICAS DE SEGURIDAD DIGITAL
+
+1. Proteger contraseñas
+   - Usar contraseñas fuertes con combinación de mayúsculas, minúsculas, números y caracteres especiales
+   - No compartir contraseñas con nadie
+   - Cambiar contraseñas regularmente
+   - Usar contraseñas únicas para cada plataforma
+
+2. No compartir credenciales
+   - Mantener credenciales de acceso privadas
+   - No enviar contraseñas por correo electrónico o mensajes
+   - No escribir contraseñas en documentos públicos
+   - No guardar credenciales en navegadores públicos
+
+3. Mantener software actualizado
+   - Instalar actualizaciones de seguridad inmediatamente
+   - Actualizar sistemas operativos regularmente
+   - Actualizar navegadores y aplicaciones
+   - Activar actualizaciones automáticas cuando sea posible

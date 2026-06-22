@@ -1,0 +1,27 @@
+INFORMACIÓN DEL SISTEMA
+
+Comando: uname -a
+Información mostrada: Muestra información completa del sistema, incluyendo:
+- El nombre del kernel (Linux)
+- El nombre de la máquina (codespaces-281c48)
+- La versión del kernel (6.8.0-1052-azure)
+- La fecha y hora de compilación
+- La arquitectura del procesador (x86_64)
+- El tipo de máquina
+
+En nuestro caso: Linux codespaces-281c48 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+Comando: whoami
+Información mostrada: Muestra el nombre del usuario actual conectado al sistema.
+En nuestro caso: codespace
+
+¿Por qué es útil conocer información del sistema en administración de servidores?
+
+Es fundamental para:
+1. Identificar la configuración de hardware y el sistema operativo instalado
+2. Determinar si el servidor tiene suficientes recursos para ejecutar aplicaciones
+3. Verificar la arquitectura del procesador para instalar software compatible
+4. Monitorear la seguridad conociendo qué usuarios tienen acceso
+5. Realizar diagnósticos y troubleshooting de problemas técnicos
+6. Planificar actualizaciones y mejoras de infraestructura
+7. Garantizar compatibilidad de aplicaciones y servicios

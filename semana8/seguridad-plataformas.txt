@@ -1,0 +1,34 @@
+PRÁCTICAS DE SEGURIDAD PARA PLATAFORMAS COMUNITARIAS
+
+1. No exponer datos personales
+   - Proteger la identidad y privacidad de los usuarios
+   - No compartir información personal en públicos o en registros visibles
+   - Implementar políticas de privacidad claras
+   - Cifrar datos sensibles en las bases de datos
+
+2. Proteger credenciales
+   - Requerir contraseñas fuertes (con mayúsculas, números y caracteres especiales)
+   - Nunca almacenar contraseñas en texto plano
+   - Usar funciones de hash para almacenar credenciales de forma segura
+   - Implementar autenticación de dos factores (2FA)
+   - Cambiar contraseñas por defecto inmediatamente
+
+3. Usar conexiones seguras
+   - Implementar HTTPS para todas las comunicaciones
+   - Usar certificados SSL/TLS válidos
+   - Encriptar datos en tránsito
+   - Evitar transmitir datos sensibles por conexiones inseguras
+
+4. Registrar accesos y auditorías
+   - Mantener logs de quién accede a qué información y cuándo
+   - Monitorear actividades sospechosas
+   - Registrar cambios en datos críticos
+   - Alertar sobre intentos de acceso no autorizados
+   - Revisar logs periódicamente para detectar anomalías
+
+5. Limitar acceso a información sensible
+   - Implementar control de acceso basado en roles (RBAC)
+   - Dar permisos mínimos necesarios a cada usuario
+   - Restringir acceso administrativo solo a personal autorizado
+   - Revisar regularmente qué usuarios tienen acceso a qué datos
+   - Revocar acceso inmediatamente cuando no sea necesario
