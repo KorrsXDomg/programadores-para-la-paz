@@ -1,0 +1,7 @@
+Evento que activa el flujo: un nuevo reporte registrado en el sistema.
+
+Acción: enviar un mensaje automático a Telegram.
+
+Mensaje que se enviaría: "Nuevo reporte recibido. Revisar sistema y priorizar seguimiento."
+
+Información que no debe enviarse: nombres completos, documentos de identidad, direcciones, teléfonos, claves o cualquier dato sensible.

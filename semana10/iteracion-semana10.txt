@@ -1,0 +1,10 @@
+Las dos tareas del backlog que haría primero son:
+- Registrar una incidencia.
+- Recibir una alerta en Telegram por un nuevo reporte.
+
+Las elijo primero porque generan la evidencia inicial y permiten activar la coordinación de forma rápida.
+
+Una tarea está terminada cuando:
+- Funciona correctamente.
+- Fue probada con un ejemplo de uso.
+- Quedó registrada y documentada en Git.
