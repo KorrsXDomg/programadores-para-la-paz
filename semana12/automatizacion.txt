@@ -1,0 +1,7 @@
+Automatización simple con n8n o Telegram
+
+Evento que activa la automatización: una nueva causa es registrada en la plataforma.
+Mensaje que se envía: “Nueva causa creada en la plataforma. Revisa la información y participa.”
+Información que no debe enviarse por seguridad: cédulas, teléfonos, direcciones, comentarios sensibles o datos personales.
+
+Esta automatización ayuda a informar de forma rápida a la comunidad sin exponer información privada o delicada.
